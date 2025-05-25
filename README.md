@@ -1,8 +1,10 @@
 # US-sales-forecast
 This repository demonstrates my skills in data science and time series forecasting, using macroeconomic data from FRED-MD **to predict U.S. manufacturing and industry sales** over a 6-month horizon.
 
+The implemented models include **Dynamic Factor Models**, **LASSO**, **Elastic Net**, and **Group LASSO**.
+
 # Project Summary
-The forecasting model is implemented in a single Jupyter notebook, which walks through:
+The forecasting models are implemented in a single Jupyter notebook, which walks through:
 
 * Loading and preprocessing macroeconomic data
 
