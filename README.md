@@ -13,9 +13,9 @@ The forecasting model is implemented in a single Jupyter notebook, which walks t
 * Training the forecasting model and generating predictions
 
 # Files Included
-`forecasting_model.ipynb` – The full code notebook containing all data preparation, modeling, and forecasting steps.
+`result_summary.png` – A single image summarizing the forecast results, demonstrating the model’s ability to predict trends effectively.
 
-`result_summary.png` – A visual summary showing the model’s forecast performance.
+`forecasting_model.ipynb` – The full code notebook containing all data preparation, modeling, and forecasting steps.
 
 The factor computation and selection section is adapted from code written by **Professor George Milunovich**, sourced from his GitHub repository `FactorModels`, and integrated into this notebook for reproducibility.
 
